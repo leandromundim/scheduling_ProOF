@@ -1,0 +1,13 @@
+Valor_otimo
+142.0
+Total_de_maquinas
+4
+Total_de_tarefas
+6
+Matriz_dos_custos_de_processamento_e_de_setup						
+65	22	14	18	15	19	12
+67	17	12	24	14	13	21
+50	13	18	16	19	14	23
+61	24	13	12	15	22	22
+50	23	17	19	22	22	15
+66	20	22	15	17	18	21
